@@ -31,4 +31,4 @@ Steps to Run the Game:
 
 Important Reminder:
 
-    -> THE FILE TO RUN IS [START] 
+    -> THE FILE TO RUN IS [START] located at src
