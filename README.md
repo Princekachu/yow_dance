@@ -28,3 +28,7 @@ Steps to Run the Game:
         [ARROW DOWN] - Move Downward, 
         [ARROW LEFT] - Move to Left, 
         [ARROW RIGHT] - Move to Right.
+
+Important Reminder:
+
+    -> THE FILE TO RUN IS [START] 
